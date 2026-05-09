@@ -1,24 +1,76 @@
-<h1 align="center">Hi! I'm Hasib</h1>
-<h3 align="center">I'm a software engineer from Bangladesh.</h3>
+<div align="center">
+  
+# Hi! I'm Hasib
+  
+### Software Engineer | Problem Solver | Tech Enthusiast
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=hasib-ul-islam&style=for-the-badge&color=0e75b6)](https://github.com/hasib-ul-islam)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasib-ul-islam&theme=radical&no-frame=true&row=1&column=7)](https://github.com/hasib-ul-islam)
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasib-ul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hasib-ul-islam" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasib-ul-islam" alt="hasib-ul-islam" /></a> </p>
+## About Me
 
-- I’m currently learning **Python,CPP,C**
+I'm a passionate **Software Engineer** from **Bangladesh** who loves turning complex problems into simple, elegant solutions. Currently diving deep into systems programming and expanding my technical arsenal.
 
-- How to reach me **hasib121810@gmail.com**
+- Currently learning **Python, C++, C**
+- Reach me at: **hasib121810@gmail.com**
+- Fun fact: I believe clean code is an art form
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasibul-islam-6a99433a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibul-islam-6a99433a0" height="30" width="40" /></a>
-<a href="https://fb.com/hasiib.003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasiib.003" height="30" width="40" /></a>
-<a href="https://instagram.com/_ha._.sib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ha._.sib_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasib-ul-islam&show_icons=true&locale=en&layout=compact" alt="hasib-ul-islam" /></p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibul-islam-6a99433a0)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hasiib.003)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ha._.sib_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib121810@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasib-ul-islam&show_icons=true&locale=en" alt="hasib-ul-islam" /></p>
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+  
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  
+### Stats & Activity
+
+![Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasib-ul-islam&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+  
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-ul-islam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+### Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasib-ul-islam&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Current Focus
