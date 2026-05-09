@@ -1,109 +1,24 @@
-<p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Gazi%20Md%20Anas&fontColor=61DAFB&fontSize=50&fontAlignY=45&animation=twinkling" />
+<h1 align="center">Hi! I'm Hasib</h1>
+<h3 align="center">I'm a software engineer from Bangladesh.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasib-ul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hasib-ul-islam" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasib-ul-islam" alt="hasib-ul-islam" /></a> </p>
+
+- I’m currently learning **Python,CPP,C**
+
+- How to reach me **hasib121810@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hasibul-islam-6a99433a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibul-islam-6a99433a0" height="30" width="40" /></a>
+<a href="https://fb.com/hasiib.003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasiib.003" height="30" width="40" /></a>
+<a href="https://instagram.com/_ha._.sib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ha._.sib_" height="30" width="40" /></a>
 </p>
 
-I'm Gazi Md Anas, a 1st-year Computer Science student per 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-💡 *“Crafting logic and elegance in every line of code.”*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasib-ul-islam&show_icons=true&locale=en&layout=compact" alt="hasib-ul-islam" /></p>
 
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /></picture>
-</div>
-
-
-### 📬 Connect with Me  
-
-<p align="center">
-  <a href="mailto:gazianas2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.linkedin.com/in/gazianas/">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.instagram.com/_gazi_pazi_/">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.facebook.com/anisur.anas10">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anas-Gazi">
-    <img src="https://komarev.com/ghpvc/?username=Anas-Gazi&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Anas-Gazi">
-    <img src="https://img.shields.io/github/followers/Anas-Gazi?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
-
----
-
-### 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql&theme=light" />
-  </a>
-</p>
-
----
-
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
-  </a>
-</p>
-
----
-
-### 💻 Competitive Programming
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/gazianas">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45" title="GeeksforGeeks"/>
-  </a>
-<a href="https://codeforces.com/profile/gazianas2020">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" title="Codeforces"/>
-</a>
-  <a href="https://leetcode.com/u/GaziBD/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" title="LeetCode"/>
-  </a>
-</p>
-
----
-### 🤖 AI Tools
-<p align="center">
- <img src="https://img.shields.io/badge/ChatGPT-091519?style=for-the-badge&logo=openai&logoColor=61DAFB" height="28" title="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Grok-091519?style=for-the-badge&logo=xai&logoColor=61DAFB" height="28" title="Grok"/>
-   <img src="https://cdn.simpleicons.org/claude/61DAFB" height="45" title="Claude"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/61DAFB" height="45" title="Gemini"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/61DAFB" height="45" title="GitHub Copilot"/>
-</p>
-
-------
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Gazi&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-  <img src="https://streak-stats.demolab.com?user=Anas-Gazi&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Gazi&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-</p>
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-<img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasib-ul-islam&show_icons=true&locale=en" alt="hasib-ul-islam" /></p>
