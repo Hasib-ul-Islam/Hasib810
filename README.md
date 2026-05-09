@@ -6,6 +6,10 @@
 # Hi! I'm Hasib
   
 ### Software Engineer | Problem Solver | Tech Enthusiast
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /></picture>
+</div>
   
 [![Profile Views](https://komarev.com/ghpvc/?username=hasib-ul-islam&style=for-the-badge&color=0e75b6)](https://github.com/hasib-ul-islam)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasib-ul-islam&theme=radical&no-frame=true&row=1&column=7)](https://github.com/hasib-ul-islam)
