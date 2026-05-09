@@ -1,5 +1,5 @@
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hasib&fontColor=61DAFB&fontSize=50&fontAlignY=45&animation=twinkling
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hasib%20Ul%20Islam&fontColor=61DAFB&fontSize=50&fontAlignY=45&animation=twinkling" />
 </p>
 <div align="center">
   
